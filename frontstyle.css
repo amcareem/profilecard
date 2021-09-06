@@ -1,0 +1,256 @@
+/* Main Rectangle */
+
+
+position: absolute;
+width: 433px;
+height: 717px;
+left: 206px;
+top: 154px;
+
+background: #E6D055;
+border-radius: 15px;
+
+
+/* Bottom Rectangle */
+
+
+position: absolute;
+width: 399px;
+height: 495px;
+left: 223px;
+top: 358px;
+
+background: #CBDEDC;
+
+
+/* Github Rectangle */
+
+
+position: absolute;
+width: 43px;
+height: 43px;
+left: 432px;
+top: 751px;
+
+background: url(image.png);
+border-radius: 8px;
+
+
+/* Upper Rectangle with Mosaic Design */
+
+
+position: absolute;
+width: 399px;
+height: 190px;
+left: 223px;
+top: 168px;
+
+background: url(image.png);
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 285px;
+height: 285px;
+left: 280px;
+top: 216px;
+
+background: url(20210405_215910.jpg);
+
+
+/* Ahamed Musthafa Careem */
+
+
+position: absolute;
+width: 361px;
+height: 35px;
+left: 242px;
+top: 525px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* Instagram Rectangle */
+
+
+position: absolute;
+width: 43px;
+height: 43px;
+left: 259px;
+top: 751px;
+
+background: url(image.png);
+border-radius: 8px;
+
+
+/* chilled_coder */
+
+
+position: absolute;
+width: 77px;
+height: 15px;
+left: 316px;
+top: 765px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* amcareem */
+
+
+position: absolute;
+width: 62px;
+height: 15px;
+left: 493px;
+top: 765px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Main Pro Lang :- Java, C, Javascript,Python Front End :- HTML, CSS, Bootstrap, ReactJS Back End :- NodeJS Database :- MySQL Mobile App Dev :- Flutter, Kotlin Game Dev :- Unity, UnrealEngine DevOps :- Azure, GoogleCloud */
+
+
+position: absolute;
+width: 372px;
+height: 147px;
+left: 241px;
+top: 588px;
+
+font-family: Inika;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* Hire Button */
+
+
+position: absolute;
+width: 77px;
+height: 35px;
+left: 242px;
+top: 809px;
+
+background: #8EC685;
+border: 2px solid #086500;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* More info Button */
+
+
+position: absolute;
+width: 77px;
+height: 35px;
+left: 384px;
+top: 809px;
+
+background: #A3A6C4;
+border: 2px solid #5663C7;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Reject Button */
+
+
+position: absolute;
+width: 77px;
+height: 35px;
+left: 526px;
+top: 809px;
+
+background: #F1A6A6;
+border: 2px solid #EB4343;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Reject */
+
+
+position: absolute;
+width: 53px;
+height: 25px;
+left: 538px;
+top: 814px;
+
+font-family: Sedan SC;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* Hire */
+
+
+position: absolute;
+width: 39px;
+height: 25px;
+left: 261px;
+top: 814px;
+
+font-family: Sedan SC;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* More */
+
+
+position: absolute;
+width: 46px;
+height: 25px;
+left: 399px;
+top: 814px;
+
+font-family: Sedan SC;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
